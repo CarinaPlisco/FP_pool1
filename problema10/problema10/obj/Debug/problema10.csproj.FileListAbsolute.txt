@@ -1,6 +1,0 @@
-C:\Users\Plisco\source\repos\FP_pool1\problema10\problema10\bin\Debug\problema10.exe.config
-C:\Users\Plisco\source\repos\FP_pool1\problema10\problema10\bin\Debug\problema10.exe
-C:\Users\Plisco\source\repos\FP_pool1\problema10\problema10\bin\Debug\problema10.pdb
-C:\Users\Plisco\source\repos\FP_pool1\problema10\problema10\obj\Debug\problema10.csproj.CoreCompileInputs.cache
-C:\Users\Plisco\source\repos\FP_pool1\problema10\problema10\obj\Debug\problema10.exe
-C:\Users\Plisco\source\repos\FP_pool1\problema10\problema10\obj\Debug\problema10.pdb
