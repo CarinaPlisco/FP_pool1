@@ -1,0 +1,6 @@
+C:\Users\Plisco\source\repos\FP_pool1\problema8\bin\Debug\problema8.exe.config
+C:\Users\Plisco\source\repos\FP_pool1\problema8\bin\Debug\problema8.exe
+C:\Users\Plisco\source\repos\FP_pool1\problema8\bin\Debug\problema8.pdb
+C:\Users\Plisco\source\repos\FP_pool1\problema8\obj\Debug\problema8.csproj.CoreCompileInputs.cache
+C:\Users\Plisco\source\repos\FP_pool1\problema8\obj\Debug\problema8.exe
+C:\Users\Plisco\source\repos\FP_pool1\problema8\obj\Debug\problema8.pdb

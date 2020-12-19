@@ -1,0 +1,7 @@
+C:\Users\Plisco\source\repos\FP_pool1\problema3\bin\Debug\problema3.exe.config
+C:\Users\Plisco\source\repos\FP_pool1\problema3\bin\Debug\problema3.exe
+C:\Users\Plisco\source\repos\FP_pool1\problema3\bin\Debug\problema3.pdb
+C:\Users\Plisco\source\repos\FP_pool1\problema3\obj\Debug\problema3.csproj.CoreCompileInputs.cache
+C:\Users\Plisco\source\repos\FP_pool1\problema3\obj\Debug\problema3.exe
+C:\Users\Plisco\source\repos\FP_pool1\problema3\obj\Debug\problema3.pdb
+C:\Users\Plisco\source\repos\FP_pool1\problema3\obj\Debug\problema3.csprojAssemblyReference.cache
