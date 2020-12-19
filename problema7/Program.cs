@@ -23,7 +23,7 @@ namespace problema7
             Console.Write("b = ");
             b = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("a = {0}, b = {1}", a, b);
+            Console.WriteLine("Datele introduse sunt a = {0} si b = {1}", a, b);
 
             x = a;
             a = b;
