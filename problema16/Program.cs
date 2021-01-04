@@ -47,7 +47,7 @@ namespace problema16
             if (u > max) max = u;
             if (w > max) max = w;
 
-            Console.WriteLine("Numere in ordine crescatoare sunt : ");
+            Console.WriteLine("Numerele in ordine crescatoare sunt : ");
 
             for ( i = min; i <= max; i++)
             {
