@@ -23,7 +23,7 @@ namespace problema4
                 Console.WriteLine("Anul {0} este bisect.", y);
             }
             else
-            {
+            { 
                 Console.WriteLine("Anul {0} nu este bisect.", y);
             }
         }
