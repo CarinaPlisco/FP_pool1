@@ -11,7 +11,7 @@ namespace problema1
         static void Main(string[] args)
         {
             // Rezolvati ecuatia de gradul 1 cu o necunoscuta: ax+b = 0, unde a si b sunt date de intrare.  
-
+  
             float a, b, x;
 
             Console.Write("numarul a = ");
