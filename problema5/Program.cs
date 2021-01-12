@@ -11,7 +11,7 @@ namespace problema5
         static void Main(string[] args)
         {
             //Extrageti si afisati a k-a cifra de la sfarsitul unui numar. Cifrele se numara de la dreapta la stanga. 
-            int n, k, uc, c;
+            int n, k, uc, c; 
 
             Console.WriteLine("Introduceti un numar n: ");
             n = int.Parse(Console.ReadLine());
