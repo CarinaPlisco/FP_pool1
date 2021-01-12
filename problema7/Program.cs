@@ -19,7 +19,7 @@ namespace problema7
 
             Console.Write("a = ");
             a = int.Parse(Console.ReadLine());
-
+ 
             Console.Write("b = ");
             b = int.Parse(Console.ReadLine());
 
