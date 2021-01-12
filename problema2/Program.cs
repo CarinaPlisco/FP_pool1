@@ -50,7 +50,7 @@ namespace problema2
                     Console.WriteLine("Ecuatia nu are solutii care sa apartina lui R. ");
 
                 }
-            }
+            } 
         }
     }
 }
