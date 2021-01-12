@@ -44,7 +44,7 @@ namespace problema2
                 if (delta == 0)
                 {
                     Console.WriteLine($" Necunoscuta x este {0} ", x1);
-                }
+                } 
                 else
                 {
                     Console.WriteLine("Ecuatia nu are solutii care sa apartina lui R. ");
