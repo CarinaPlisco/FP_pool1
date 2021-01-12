@@ -25,7 +25,7 @@ namespace problema4
             else
             { 
                 Console.WriteLine("Anul {0} nu este bisect.", y);
-            }
+            } 
         }
     }
 }
