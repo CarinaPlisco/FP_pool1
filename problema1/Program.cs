@@ -19,7 +19,7 @@ namespace problema1
             Console.Write("numarul b = ");
             b = float.Parse(Console.ReadLine());
 
-            x = -b / a;
+            x = -b / a; 
 
             Console.WriteLine($" {a}x + {b} = 0 ");
             Console.WriteLine($" => x = {x}");
