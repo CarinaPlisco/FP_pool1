@@ -28,5 +28,5 @@ namespace problema3
                 Console.WriteLine($"{n} nu se divide cu {k}");
             }
         }
-    }
+    } 
 }
