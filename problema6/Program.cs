@@ -34,7 +34,7 @@ namespace problema6
                     else
                         Console.WriteLine("Triunghiul format este unul oarecare.");
                 }
-            }
+            } 
             else
             {
                 Console.WriteLine($"Laturile {a}, {b} si {c} nu pot forma un triunghi.");
