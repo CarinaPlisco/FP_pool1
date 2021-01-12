@@ -34,7 +34,7 @@ namespace problema10
                 Console.WriteLine("Numarul {0} este prim.", n);
             }
             else
-            {
+            { 
                 if (n == 0 || n == 2 || n == 1)
                 {
                     Console.WriteLine("Numarul {0} este prim", n);
